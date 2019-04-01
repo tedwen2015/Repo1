@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is EC62-03AD
+
+ Directory of c:\Git\MyProject
+
+04/01/2019  02:17 PM    <DIR>          .
+04/01/2019  02:17 PM    <DIR>          ..
+04/01/2019  02:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,796,389,982,208 bytes free
